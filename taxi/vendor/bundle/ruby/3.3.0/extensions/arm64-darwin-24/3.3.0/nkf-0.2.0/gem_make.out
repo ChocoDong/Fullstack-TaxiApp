@@ -1,0 +1,18 @@
+current directory: /Users/donghyeon/fullstack/taxi/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/Users/donghyeon/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/donghyeon/fullstack/taxi/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250318-53785-lmbemp sitelibdir\=./.gem.20250318-53785-lmbemp clean
+
+current directory: /Users/donghyeon/fullstack/taxi/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250318-53785-lmbemp sitelibdir\=./.gem.20250318-53785-lmbemp
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/donghyeon/fullstack/taxi/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250318-53785-lmbemp sitelibdir\=./.gem.20250318-53785-lmbemp install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250318-53785-lmbemp
+
+current directory: /Users/donghyeon/fullstack/taxi/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250318-53785-lmbemp sitelibdir\=./.gem.20250318-53785-lmbemp clean

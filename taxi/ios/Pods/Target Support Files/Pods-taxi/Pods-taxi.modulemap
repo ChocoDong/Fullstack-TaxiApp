@@ -1,0 +1,6 @@
+module Pods_taxi {
+  umbrella header "Pods-taxi-umbrella.h"
+
+  export *
+  module * { export * }
+}
